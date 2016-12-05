@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\NativeImgCompress\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7dd5a9b7ca8486dba05d0b154a5375f70d0b412">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\intermediates-exploded-aar-NativeImgCompress_a15bdb0d070e0ffa0a9c031f2d5a1c2bb75dfbbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_37fba32e9484f64870d1181f5d4e917a66ab5d3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-v4-25.0.0_27ce5be03b678668b0960f0f2dfc6505b86d905e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_ac01672674561490793f2e2fa38bbe6f6db5e612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\incremental-runtime-classes\arm\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a21d4692777268742e8c8aedc64ce93cef65654">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\instant-run_32619161061df7409940eb10729d50c526c6d50d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_c831ec12c7b6641e1c7b4ef41254699c5b47597d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_0f979d1abd2a1faa9aaeb0ce71ef13bca97d8b6c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\incremental-runtime-classes\arm\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9bc569af6d69308ef88bf0151a51be3329e8a53a">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\instant-run_06c7f3ec82a359cea8171a087ed8e3523adcb85b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\internal_impl-25.0.0_39ccb9014aa7bc1536ae98c995d9c416316a5a4c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\incremental-classes\arm\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5d201f2ad0f404d2c959cc08bdb618e0a082d336">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\instant-run-bootstrap_2dd7649875f076733df16862008e89dc16a94d87\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_3ae4c112f6de5576cba6e6a211f3ec75e3098136\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_6f31300174b5c5b03b53a9d565f47c859edd879e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\internal_impl-25.0.0_e3af1030eb97dbefe76038474bca2f1bd8cff03b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_e4667e5f89c92b387c9a9b4cb77c608a4ee9d7e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\internal_impl-25.0.0_52620e7da09164a68a14b36ef011339def1112b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\internal_impl-25.0.0_7951dcf0499baf9652ec4ebab7a3a59e3cff3f68\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\yangdong\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\glide-3.7.0_af9f5ccf2889e07b52d8387db74f58d9b6774e52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\internal_impl-25.0.0_9cb314b1d943c0259fdb6d20d447b114d1154ced\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-compat-25.0.0_8feb3e7096ca5ec548c9c6f3fb836c9c90e7991b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_6ab76c13ecb2a402cd9ab4ea566227c92a60dcc0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android-SDK-as\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\support-annotations-25.0.0_ac567cedc11fe2add1c0b1fe38d7f3a5859c7f48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-compat-25.0.0_6ee06e05f5ae9038b9d14d820475ce56dda172d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_8c698d8fc42a35583ca9871fa0667c28a1a1c217\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_3e754542212836127ae57682970541b80b909e01\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\internal_impl-25.0.0_7c71744d99a15d6d1b2fb00f7e5f800b0eb3a461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_7ca96faa1f17000addde5ec8b695d1247e311881\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\internal_impl-25.0.0_67df3c09826d74b9fcd618a3b069df4e37ccc541\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\internal_impl-25.0.0_84e8ab14b5934feababb666557737bae8d512154\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\incremental-classes\arm\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0611c441a075369db559cb23a47daa264fee9eab">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\instant-run-bootstrap_d4d5beffbe2afd3ee36265f80767679035b2c7f6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\GridViewAddImage\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\androidCode\GridViewAddImage\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\internal_impl-25.0.0_1cc50932a26e64ef1e72f2ec8a576abf5619cde1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_20b794970c4cf702002b7702ca94f943663906d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_a59c3a454e8f6b9414c0e6a8bd793545bbbba8bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\internal_impl-25.0.0_3c957862000457cea4edb4ebdaa06c5b671a787d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-support-v4-25.0.0_d3f7ad90cdd05d6b5af1645f2c781f208a66e873\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\NativeImgCompress\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f7dd5a9b7ca8486dba05d0b154a5375f70d0b412">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\intermediates-exploded-aar-NativeImgCompress_347c7627a89029cac1cc4a4e8d0481e1c3d0d879\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\androidCode\test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="D:\androidCode\test\app\build\intermediates\transforms\dex\arm\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_dc02d839cab78f53ca9a813d30bcb2c2d3009447\classes.dex" />
+    </item>
+
+</items>
