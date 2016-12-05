@@ -1,9 +1,11 @@
 package cn.bluemobi.dylan.gridviewaddimage;
 
+import android.Manifest;
 import android.app.Dialog;
 import android.content.Intent;
 import android.database.Cursor;
 import android.net.Uri;
+import android.os.Build;
 import android.os.Bundle;
 import android.os.Environment;
 import android.os.Handler;
@@ -22,6 +24,10 @@ import android.widget.GridView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.zhy.m.permission.MPermissions;
+import com.zhy.m.permission.PermissionDenied;
+import com.zhy.m.permission.PermissionGrant;
+
 import net.bither.util.NativeUtil;
 
 import java.io.File;
@@ -30,8 +36,15 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+import static android.Manifest.permission.MOUNT_UNMOUNT_FILESYSTEMS;
+import static android.Manifest.permission.WRITE_EXTERNAL_STORAGE;
+
 
 public class MainActivity extends AppCompatActivity {
+    private static final int REQUEST_CAMEREA = 0xAAAAAA;
+    private static final int REQUEST_READ_EXTERNAL_STORAGE = 0xAAAAAB;
+    private static final int REQUEST_WRITE_EXTERNAL_STORAGE = 0xAAAAAC;
+    private static final int REQUEST_MOUNT_UNMOUNT_FILESYSTEMS = 0xAAAAAD;
     private GridView gw;
     private List<Map<String, Object>> datas;
     private GridViewAddImgesAdpter gridViewAddImgesAdpter;
@@ -86,6 +99,12 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        MPermissions.requestPermissions(this,REQUEST_CAMEREA,Manifest.permission.CAMERA);
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
+            MPermissions.requestPermissions(this,REQUEST_READ_EXTERNAL_STORAGE,Manifest.permission.READ_EXTERNAL_STORAGE);
+        }
+        MPermissions.requestPermissions(this,REQUEST_MOUNT_UNMOUNT_FILESYSTEMS, Manifest.permission.MOUNT_UNMOUNT_FILESYSTEMS);
+
         tv_camera.setOnClickListener(new View.OnClickListener() {
 
             @Override
@@ -106,7 +125,25 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+    @Override
+    public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults)
+    {
+        MPermissions.onRequestPermissionsResult(this, requestCode, permissions, grantResults);
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+    }
 
+
+    @PermissionGrant(REQUEST_CAMEREA)
+    public void requestCameraSuccess()
+    {
+        Toast.makeText(this, "GRANT ACCESS Camera!", Toast.LENGTH_SHORT).show();
+    }
+
+    @PermissionDenied(REQUEST_CAMEREA)
+    public void requestCameraFailed()
+    {
+        Toast.makeText(this, "DENY ACCESS Camera!", Toast.LENGTH_SHORT).show();
+    }
     /**
      * 拍照
      */
@@ -251,3 +288,4 @@ public class MainActivity extends AppCompatActivity {
         gridViewAddImgesAdpter.notifyDataSetChanged();
     }
 }
+
